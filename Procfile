@@ -1,1 +1,1 @@
-web: gunicorn django_forms.wsgi --log-file -
+web: gunicorn ajax.wsgi --log-file -
