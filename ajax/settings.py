@@ -25,7 +25,7 @@ SECRET_KEY = '_t+5f1(ep-3@b@(-e!tnb9-k-c5$45_hu-a6_t#d6a59a^sj+1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ajax-django.herokuapp.com']
 
 
 # Application definition
